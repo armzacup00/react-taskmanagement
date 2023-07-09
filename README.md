@@ -1,5 +1,5 @@
 # react-taskmanagement
-Function of React-taskmanagement app
+Function in React-taskmanagement app
 - add task
 - update task
 - delete task
